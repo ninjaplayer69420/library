@@ -5,4 +5,6 @@
 Very Good Note
 
 
-Lol
+| Resource | Type  |
+| -------- | ----- |
+| Slave    | Black |
